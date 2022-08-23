@@ -10,7 +10,7 @@ bin heißt Jenetta ist 21 Meter lang und wiegt 27 Tonnen. Hier wird gar nichts m
 mal eben von Hand gemacht, denn alles ist ein paar Dimensionen größer als
 gewöhnlich.
 
-![jenetta](img/jenetta.png)
+![jenetta](img/jenetta.png){:class="img-responsive"}
 
 Tag 1 sind wir nur ein Rennen gefahren, in dem wir 3. wurden. Danach
 sind wir zum SailGP Kurs gefahren um dort deren Rennen anzuschauen. Das war
