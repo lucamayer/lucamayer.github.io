@@ -5,7 +5,7 @@ tags: X-35
 ---
 
 Juelsminde. DH (Danish Handycap, ein Ratingverfahren) Dänische Meisterschaft auf der X-35.
-Am Donnerstag sind wir angereist und haben unsere Zelte aufgeschlagen. Ich haben das Boot „Race-Ready“ gemacht. Hier und da wurde noch ein bisschen gewerkelt und unsere neuen Segelsäcke wurden eingeweiht.
+Am Donnerstag sind wir angereist, haben unsere Zelte aufgeschlagen und das Boot „Race-Ready“ gemacht. Hier und da wurde noch ein bisschen gewerkelt und unsere neuen Segelsäcke wurden eingeweiht.
 
 Tag eins der Regatta. Sehr wenig Wind und viel Sonnenschein. Das erste Rennen ließ zu wünschen übrig. Ein 6. Platz, mehr war nicht drin. Wir mussten uns erstmal eingrooven. Die Rennen zwei und drei liefen besser mit einem 3. und einem 2. Platz. 
 
