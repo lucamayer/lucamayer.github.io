@@ -11,7 +11,7 @@ Tag eins der Regatta. Sehr wenig Wind und viel Sonnenschein. Das erste Rennen li
 
 ![dh1](img/37A3200B-BAC9-4F4A-959A-F11E21FB493B.jpeg)
 
-Am zweiten Wettfahrttag war fie Regatta als Mittelstrecke ( ~20[nm](https://en.m.wikipedia.org/wiki/Nautical_mile) ) ausgelegt. Interessant war, dass wir alle nacheinander weg mit einem sogenannten Kängurustart gestartet sind, das heißt, die langsamen Boote bekommen einen Vorsprung vor den Schnellen und das Boot, das dann zu erst im Ziel ist, gewinnt.
+Am zweiten Wettfahrttag war die Regatta als Mittelstrecke ( ~20[nm](https://en.m.wikipedia.org/wiki/Nautical_mile) ) ausgelegt. Interessant war, dass wir alle nacheinander weg mit einem sogenannten Kängurustart gestartet sind, das heißt, die langsamen Boote bekommen einen Vorsprung vor den Schnellen und das Boot, das dann zu erst im Ziel ist, gewinnt.
 Eine weitere ungewöhnliche Sache war, dass der Zieldurchgang des ersten Rennens gleichzeitig der Start des zweiten Rennens war. In diesem Rennen wurde dann einfach nach gesegelter Zeit verrechnet.
 Den Tag beendeten wir mit einem 4. und 5. Platz. 
 
