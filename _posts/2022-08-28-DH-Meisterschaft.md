@@ -19,7 +19,7 @@ Den Tag beendeten wir mit einem 4. und 5. Platz.
 
 Tag drei war der finale Tag und es gab noch viel zu holen. Wir standen morgens auf Platz drei und hatten nur einen Punkt Rückstand zum Zweiten. Doch die Windvorhersage war leider ziemlich miserabel. Trotzdem konnten wir segeln und wir waren alle heiß nochmal zu kämpfen, um den Zweiten zu überholen.
 
-Es kamen dann auch noch zwei Rennen zustande bei denen wir einen 4. und einen 5. Platz im ersegelten. Bis zur letzten Ziellinie haben wir gekämpft. 
+Es kamen dann auch noch zwei Rennen zustande bei denen wir einen 4. und einen 5. Platz ersegelten. Bis zur letzten Ziellinie haben wir gekämpft. 
 
 Leider hatten wir einige „Fuck Ups“.
 Umso ärgerlicher, denn am Ende fehlten uns 4 Sekunden, um den Zweiten zu schlagen. So beendeten wir die Regatta punktgleich mit dem Zweiten auf dem 3. Platz.
