@@ -19,9 +19,9 @@ Den Tag beendeten wir mit einem 4. und 5. Platz.
 
 Tag drei war der finale Tag und es gab noch viel zu holen. Wir standen morgens auf Platz drei und hatten nur einen Punkt Rückstand zum Zweiten. Doch die Windvorhersage war leider ziemlich miserabel. Trotzdem konnten wir segeln und wir waren alle heiß nochmal zu kämpfen, um den Zweiten zu überholen.
 
-Es kamen dann auch zwei Rennen zustande und wie hatten einen 4. und einen 5. Platz im Ergebnis. Bis zur letzten Ziellinie haben wir gekämpft. 
+Es kamen dann auch noch zwei Rennen zustande bei denen wir einen 4. und einen 5. Platz im ersegelten. Bis zur letzten Ziellinie haben wir gekämpft. 
 
-Leider hatten wir einige „Fuck Ups“. Einmal mussten wir uns zur Luvtonne hochhungern, weil wir ein bisschen unter der Layline waren und keine Doppelwende fahren konnten. Und zweimal ging der Spi nicht schnell genug runter, weil wir das Fall noch in der Klemme am Mast hatten und das nicht früh genug gemerkt haben. Anfängerfehler!
+Leider hatten wir einige „Fuck Ups“.
 Umso ärgerlicher, denn am Ende fehlten uns 4 Sekunden, um den Zweiten zu schlagen. So beendeten wir die Regatta punktgleich mit dem Zweiten auf dem 3. Platz.
 
 ![dh3](img/9992884E-E2DF-4384-BE85-97DAC910A77F.jpeg)
