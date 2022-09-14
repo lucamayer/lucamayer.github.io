@@ -22,6 +22,6 @@ Das ist eine Mittelstrecke, die einmal aus der Flensburger Förde raus und
 wieder rein geht.
 
 Insgesamt brauchten wir 4 Stunden, 36 Minuten und 20 Sekunden für die Strecke. Das reichte für den zweiten Platz.
-Geschlagen von einer First 36.7, die gerade mal 36 Sekunden schneller gewesen war.
+Geschlagen von einer First 36.7, die gerade mal 36 Sekunden schneller gewesen war. So ist das beim Segeln.
 
 Ergebnisse sind [hier](https://www.manage2sail.com/de-DE/event/Foerdewoche2022#!/results?classId=FlensburgerPilsenerCupORCiB) zu finden.
