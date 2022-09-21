@@ -19,7 +19,7 @@ so spannender mitten im Fleet in den Hafen hinein zu segeln.
 
 ![](img/2022-09-14-10-32-09.png)
 
-Mit durchwachsenen Ergebnissen beendeten wir die Regatte auf dem 6. Platz.
+Mit durchwachsenen Ergebnissen beendeten wir die Regatta auf dem 6. Platz.
 Damit bin ich zufrieden und wir hatten drei echt schöne Segeltage auf
 beeindruckenden Schiffen.
 
