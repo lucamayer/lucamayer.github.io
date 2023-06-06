@@ -42,7 +42,8 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 0 solid var(--border-color);
+  // border: 0 solid var(--border-color);
+  border: none;
   border-collapse: collapse;
 }
 
@@ -52,7 +53,7 @@ th {
   border-color: inherit;
   border-style: solid;
   border-width: 0;
-  border-bottom-width: 1px;
+  border-bottom-width: 0px;
 }
 
 th {
