@@ -6,8 +6,8 @@ url: https://
 paginate: 1
 baseurl: ""
 about: "about"
-# permalink: pretty
-permalink: /:title.html
+permalink: pretty
+# permalink: /:title.html
 
 # Gems
 plugins:
