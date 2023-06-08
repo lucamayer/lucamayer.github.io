@@ -7,7 +7,7 @@ paginate: 1
 baseurl: ""
 about: "about"
 # permalink: pretty
-permalink: /:year:-title.html
+permalink: /:year-:title.html
 
 # Gems
 plugins:
